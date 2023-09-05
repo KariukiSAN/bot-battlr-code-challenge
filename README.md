@@ -1,3 +1,10 @@
+# Bot Battlr React App
+The Bot Battlr does the following things:
+1.Users can see bot profiles.
+2.Users can add bots to their profile.
+3.Users can edit and delete a bot from their profile.
+4.View stats about each bot in your army such as health points, attack damage, etc...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
